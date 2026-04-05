@@ -4,13 +4,11 @@
 
 Boom Bikes, a bike-sharing company, wants to understand the factors affecting the demand for shared bikes in the market.
 
----
 
 ## Objective
 
 To build a Linear Regression model that predicts bike demand and identifies the key variables influencing demand.
 
----
 
 ##  Approach
 
@@ -21,8 +19,6 @@ To build a Linear Regression model that predicts bike demand and identifies the 
 * Linear Regression Model Building
 * Model Evaluation
 
----
-
 ##  Tools & Technologies
 
 * Python
@@ -30,7 +26,6 @@ To build a Linear Regression model that predicts bike demand and identifies the 
 * Matplotlib, Seaborn
 * Scikit-learn
 
----
 
 ## Key Insights
 
@@ -38,7 +33,6 @@ To build a Linear Regression model that predicts bike demand and identifies the 
 * Temperature has strong positive correlation
 * Working days vs holidays impact usage patterns
 
----
 
 ## Business Impact
 
@@ -48,7 +42,6 @@ This model helps Boom Bikes:
 * Improve operational planning
 * Increase profitability
 
----
 
 ## Future Improvements
 
